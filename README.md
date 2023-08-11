@@ -14,9 +14,9 @@ Screenshots of webpage:
 
 #
 
-Link to the repository: https://github.com/YC937/CodeRefactor1
+Link to the repository: https://github.com/YC937/YMPortfolio2
 
-Link to the deployed website: https://yc937.github.io/CodeRefactor1/
+Link to the deployed website: https://yc937.github.io/YMPortfolio2/
 
 Please feel free to contact me. I like making friends!
 
