@@ -85,6 +85,11 @@ article h2 {
     font-size: 36px;
 }
 
+article:hover {
+    border: 3px solid black;
+
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -138,4 +143,29 @@ footer {
 
 footer h2 {
     font-size: 20px;
+}
+
+@media screen and (max-width: 850px){ 
+    main{
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    h1{
+        flex: 0 1 100%;
+    }
+
+    h2{
+        flex: 0 1 100%;
+    }
+    
+    main img{
+        max-width: 100px;
+    }
+
+    article{
+        flex: 0 1 45%;
+        margin-top: 2%;
+    }
 }
